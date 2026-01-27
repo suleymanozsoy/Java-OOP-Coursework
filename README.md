@@ -13,7 +13,7 @@ Bu bölümde Java'nın çalışma mantığı, isimlendirme standartları ve teme
 - [ ] **Ödev-I:** Oracle Java Tutorials incelemesi ve yerel makinede kurulumu.
 - [ ] **Ödev-II:** Temiz Kod (Clean Code) prensipleri kapsamında `NamingProblems` sınıfındaki isimlendirme hatalarının düzeltilmesi.
 - [x] **Ödev-III:** Paket yapısı olmadan komut satırı (CLI) üzerinden derleme pratikleri. (`Hello.java` & `HelloTest.java`)
-- [ ] **Ödev-IV:** `main` metodu, değişkenler ve basit aritmetik işlemler pratiği (`Deneme` sınıfı).
+- [x] **Ödev-IV:** `main` metodu, değişkenler ve basit aritmetik işlemler pratiği (`Deneme` sınıfı).
 - [ ] **Ödev-V:** OCA (Oracle Certified Associate) Chapter 1 çalışma sorularının çözümü.
 - [ ] **Ödev-VI:** OCA/OCP Kitabı Chapter 1 & 6 pratik test sorularının analizi.
 
