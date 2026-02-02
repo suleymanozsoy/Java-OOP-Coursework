@@ -10,8 +10,8 @@ Java dilinin temellerini, JVM mimarisini ve Nesne Merkezli Programlama prensiple
 ### 🔹 Bölüm 02: Java'nın Temelleri
 Bu bölümde Java'nın çalışma mantığı, isimlendirme standartları ve temel sözdizimi üzerine çalışmalar yapılmıştır.
 
-- [ ] **Ödev-I:** Oracle Java Tutorials incelemesi ve yerel makinede kurulumu.
-- [ ] **Ödev-II:** Temiz Kod (Clean Code) prensipleri kapsamında `NamingProblems` sınıfındaki isimlendirme hatalarının düzeltilmesi.
+- [x] **Ödev-I:** Oracle Java Tutorials incelemesi ve yerel makinede kurulumu.
+- [x] **Ödev-II:** Temiz Kod (Clean Code) prensipleri kapsamında `NamingProblems` sınıfındaki isimlendirme hatalarının düzeltilmesi.
 - [x] **Ödev-III:** Paket yapısı olmadan komut satırı (CLI) üzerinden derleme pratikleri. (`Hello.java` & `HelloTest.java`)
 - [x] **Ödev-IV:** `main` metodu, değişkenler ve basit aritmetik işlemler pratiği (`Deneme` sınıfı).
 - [ ] **Ödev-V:** OCA (Oracle Certified Associate) Chapter 1 çalışma sorularının çözümü.
