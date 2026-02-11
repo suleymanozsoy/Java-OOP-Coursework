@@ -1,31 +1,57 @@
-# Java & Nesne Merkezli Programlama (OOP) Eğitimi
+# ☕ Java & Object-Oriented Programming (OOP) Journey
 
-Bu repository, **Marmara Üniversitesi Bilgisayar Mühendisliği** 1. sınıf öğrencisi olarak, akademik eğitimime paralel olarak yürüttüğüm **Akın Kaldıroğlu** Java ve OOP eğitimi kapsamındaki çalışmalarımı içermektedir.
+This repository documents my progress in the **Java & OOP** course by **Akın Kaldıroğlu**, running parallel to my academic studies as a **Computer Engineering Freshman** at **Marmara University**.
 
-## 🎯 Hedefim
-Java dilinin temellerini, JVM mimarisini ve Nesne Merkezli Programlama prensiplerini (Encapsulation, Inheritance, Polymorphism, Abstraction) en doğru kaynaklardan, derinlemesine öğrenmek ve uygulamaya dökmek.
+## 🎯 My Goal
+To master Java fundamentals, JVM architecture, and core OOP principles (Encapsulation, Inheritance, Polymorphism, Abstraction) from top-tier resources and apply them in real-world scenarios.
 
-## 📂 Eğitim İçeriği ve Ödevler
+## 📂 Curriculum & Assignments
 
-### 🔹 Bölüm 02: Java'nın Temelleri
-Bu bölümde Java'nın çalışma mantığı, isimlendirme standartları ve temel sözdizimi üzerine çalışmalar yapılmıştır.
+### 🔹 Chapter 02: Java Fundamentals
+Focused on understanding Java's logic, naming conventions, and basic syntax.
 
-- [ ] **Ödev-I:** Oracle Java Tutorials incelemesi ve yerel makinede kurulumu.
-- [ ] **Ödev-II:** Temiz Kod (Clean Code) prensipleri kapsamında `NamingProblems` sınıfındaki isimlendirme hatalarının düzeltilmesi.
-- [x] **Ödev-III:** Paket yapısı olmadan komut satırı (CLI) üzerinden derleme pratikleri. (`Hello.java` & `HelloTest.java`)
-- [ ] **Ödev-IV:** `main` metodu, değişkenler ve basit aritmetik işlemler pratiği (`Deneme` sınıfı).
-- [ ] **Ödev-V:** OCA (Oracle Certified Associate) Chapter 1 çalışma sorularının çözümü.
-- [ ] **Ödev-VI:** OCA/OCP Kitabı Chapter 1 & 6 pratik test sorularının analizi.
+- [x] **Homework-I:** Oracle Java Tutorials review and local environment setup.
+- [x] **Homework-II:** Correcting naming errors in `NamingProblems` class based on **Clean Code** principles.
+- [x] **Homework-III:** CLI compilation practices without package structures (`Hello.java` & `HelloTest.java`).
+- [x] **Homework-IV:** Practice with `main` method, variables, and basic arithmetic (`Deneme` class).
+- [x] **Homework-V:** Solved OCA (Oracle Certified Associate) Chapter 1 review questions.
+- [x] **Homework-VI:** Analyzed OCA/OCP Chapter 1 & 6 practice test questions.
+
+### 🔹 Chapter 03: Variables, Primitive Types & Scope
+Deep dive into state management, type casting, and variable lifecycle.
+
+- [x] **Homework-I (Car Logic):**
+  - Created `Car` and `CarTest` classes.
+  - Implemented `accelerate` and `go` methods to calculate time based on distance/speed.
+- [ ] **Homework-II (Variables & Scope):**
+  - Created `Variables` class to test local variables without initialization.
+  - Analyzed compiler errors regarding uninitialized variables.
+- [ ] **Homework-III (Block Scope):**
+  - Experimented with code blocks `{ }` to understand variable visibility and scope.
+  - Refactored variable names to follow naming conventions.
+- [ ] **Homework-IV (Type Casting):**
+  - Created `Casts` class to implement **Narrowing** (double -> int) and **Widening** (int -> double) conversions.
+  - Observed data loss during manual casting.
+- [ ] **Homework-V (Final Keyword):**
+  - Applied `final` keyword to `Car` attributes to observe immutability rules.
+- [ ] **Homework-VI (OCA Prep - Building Blocks):**
+  - [ ] Easy: Q3, Q4, Q12, Q15, Q16
+  - [ ] Medium: Q17
+  - [ ] Hard: Q19
+- [ ] **Homework-VII (OCA/OCP Prep - Java Basics):**
+  - [ ] Easy: Q10, Q14
+  - [ ] Medium: Q25, Q37
+  - [ ] Hard: Q22, Q46, Q50
 
 ---
 
-## 🛠 Kullanılan Araçlar & Teknolojiler
-* **Dil:** Java 
-* **Ortam:** macOS Terminal (zsh) & Eclipse IDE
-* **Versiyon Kontrol:** Git & GitHub
+## 🛠 Tools & Technologies
+* **Language:** Java SE
+* **Environment:** macOS Terminal (zsh) & Eclipse IDE
+* **Version Control:** Git & GitHub
 
-## 👨‍💻 Hakkımda
-Ben Süleyman Özsoy, Marmara Üniversitesi Bilgisayar Mühendisliği birinci sınıf öğrencisiyim. Yazılım dünyasındaki gelişimimi bu repo üzerinden güncel tutmaya devam edeceğim.
+## 👨‍💻 About Me
+I am **Süleyman Özsoy**, a first-year Computer Engineering student at Marmara University. I maintain this repository to track my development in the software world.
 
 ---
-*Bu çalışma Akın Kaldıroğlu'nun "Java ile Nesne Merkezli Programlama" kursu ödevlerini içermektedir.*
+*Based on Akın Kaldıroğlu's "Object-Oriented Programming with Java" course assignments.*
