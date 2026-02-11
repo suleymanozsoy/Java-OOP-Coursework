@@ -23,25 +23,25 @@ Deep dive into state management, type casting, and variable lifecycle.
 - [x] **Homework-I (Car Logic):**
   - Created `Car` and `CarTest` classes.
   - Implemented `accelerate` and `go` methods to calculate time based on distance/speed.
-- [ ] **Homework-II (Variables & Scope):**
+- [x] **Homework-II (Variables & Scope):**
   - Created `Variables` class to test local variables without initialization.
   - Analyzed compiler errors regarding uninitialized variables.
-- [ ] **Homework-III (Block Scope):**
+- [x] **Homework-III (Block Scope):**
   - Experimented with code blocks `{ }` to understand variable visibility and scope.
   - Refactored variable names to follow naming conventions.
-- [ ] **Homework-IV (Type Casting):**
+- [x] **Homework-IV (Type Casting):**
   - Created `Casts` class to implement **Narrowing** (double -> int) and **Widening** (int -> double) conversions.
   - Observed data loss during manual casting.
-- [ ] **Homework-V (Final Keyword):**
+- [x] **Homework-V (Final Keyword):**
   - Applied `final` keyword to `Car` attributes to observe immutability rules.
-- [ ] **Homework-VI (OCA Prep - Building Blocks):**
-  - [ ] Easy: Q3, Q4, Q12, Q15, Q16
-  - [ ] Medium: Q17
-  - [ ] Hard: Q19
-- [ ] **Homework-VII (OCA/OCP Prep - Java Basics):**
-  - [ ] Easy: Q10, Q14
-  - [ ] Medium: Q25, Q37
-  - [ ] Hard: Q22, Q46, Q50
+- [x] **Homework-VI (OCA Prep - Building Blocks):**
+  - [x] Easy: Q3, Q4, Q12, Q15, Q16
+  - [x] Medium: Q17
+  - [x] Hard: Q19
+- [x] **Homework-VII (OCA/OCP Prep - Java Basics):**
+  - [x] Easy: Q10, Q14
+  - [x] Medium: Q25, Q37
+  - [x] Hard: Q22, Q46, Q50
 
 ---
 
