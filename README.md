@@ -42,7 +42,26 @@ Deep dive into state management, type casting, and variable lifecycle.
   - [x] Easy: Q10, Q14
   - [x] Medium: Q25, Q37
   - [x] Hard: Q22, Q46, Q50
+        
+### 🔹 Chapter 04: Operators
+Focusing on arithmetic, logical, and relational operators, operator precedence, and code readability.
 
+- [x] **Homework-I (Operators Lab):**
+  - Created `Operators` class to practice arithmetic logic.
+  - Implemented **Compound Assignments** (`+=`, `-=`, `*=`).
+  - Demonstrated the difference between **Pre-increment** (`++i`) and **Post-increment** (`i++`).
+  - Applied **Short-Circuit** logical operators (`&&`, `||`) vs standard operators (`&`, `|`).
+- [x] **Homework-II (Refactoring & Clean Code):**
+  - Refactored a complex, nested **Ternary Operator** (`? :`) one-liner into a readable `if-else` block.
+  - Focused on code maintainability and logic clarity.
+- [x] **Homework-III (OCA Prep - Building Blocks & Operators):**
+  - [x] Easy: Q1, Q2, Q4, Q10, Q11, Q14
+  - [x] Medium: Q8
+  - [x] Hard: Q7, Q12
+- [x] **Homework-IV (OCA/OCP Prep - Practice Tests):**
+  - [x] Easy: Q14, Q16, Q17, Q21, Q22, Q23, Q29, Q33, Q39, Q48
+  - [x] Medium: Q2, Q3, Q26, Q30, Q31, Q35, Q36, Q37, Q40, Q41, Q42, Q43, Q47
+  - [x] Hard: Q8, Q9, Q19, Q20, Q25, Q27, Q44, Q50
 ---
 
 ## 🛠 Tools & Technologies
