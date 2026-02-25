@@ -7,7 +7,7 @@ To master Java fundamentals, JVM architecture, and core OOP principles (Encapsul
 
 ## 📂 Curriculum & Assignments
 
-### 🔹 Chapter 02: Java Fundamentals
+### 🔹 Chapter 03: Java Fundamentals
 Focused on understanding Java's logic, naming conventions, and basic syntax.
 
 - [x] **Homework-I:** Oracle Java Tutorials review and local environment setup.
@@ -17,7 +17,7 @@ Focused on understanding Java's logic, naming conventions, and basic syntax.
 - [x] **Homework-V:** Solved OCA (Oracle Certified Associate) Chapter 1 review questions.
 - [x] **Homework-VI:** Analyzed OCA/OCP Chapter 1 & 6 practice test questions.
 
-### 🔹 Chapter 03: Variables, Primitive Types & Scope
+### 🔹 Chapter 04: Variables, Primitive Types & Scope
 Deep dive into state management, type casting, and variable lifecycle.
 
 - [x] **Homework-I (Car Logic):**
@@ -43,7 +43,7 @@ Deep dive into state management, type casting, and variable lifecycle.
   - [x] Medium: Q25, Q37
   - [x] Hard: Q22, Q46, Q50
         
-### 🔹 Chapter 04: Operators
+### 🔹 Chapter 05: Operators
 Focusing on arithmetic, logical, and relational operators, operator precedence, and code readability.
 
 - [x] **Homework-I (Operators Lab):**
@@ -62,6 +62,22 @@ Focusing on arithmetic, logical, and relational operators, operator precedence, 
   - [x] Easy: Q14, Q16, Q17, Q21, Q22, Q23, Q29, Q33, Q39, Q48
   - [x] Medium: Q2, Q3, Q26, Q30, Q31, Q35, Q36, Q37, Q40, Q41, Q42, Q43, Q47
   - [x] Hard: Q8, Q9, Q19, Q20, Q25, Q27, Q44, Q50
+        
+### 🔹 Chapter 06: Control Flow & Algorithmic Problems
+Focusing on decision making, loops, string manipulation, and mathematical problem solving.
+
+- [x] **Homework-I (Algorithm Design & Coding):**
+  - [x] **Quadratic Equation Solver:** Implemented a program to calculate the roots of `ax^2 + bx + c = 0`.
+  - [x] **FizzBuzz:** Solved the classic algorithmic interview question.
+  - [x] **Number Reversal:** Created logic to reverse the digits of a given integer.
+  - [x] **String Manipulation:** Wrote a program to insert an asterisk (`*`) between each character of a given single-word string.
+- [x] **Homework-II (OCA Prep - Operators and Statements):**
+  - [x] Easy: Q3, Q6, Q9, Q15, Q16, Q17, Q19, Q20
+  - [x] Medium: Q18
+  - [x] Hard: Q13
+- [x] **Homework-III (OCA/OCP Prep - Java Basics Practice Tests):**
+  - [x] Easy: Q1, Q7, Q11, Q13, Q15, Q18, Q24, Q28, Q38, Q45
+  - [x] Medium: Q4, Q5, Q6, Q10, Q12
 ---
 
 ## 🛠 Tools & Technologies
