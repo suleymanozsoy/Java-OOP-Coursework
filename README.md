@@ -1,3 +1,6 @@
+🚧 Status Update (Summer 2026):
+I am currently pausing the theoretical progression of this course. After building a solid foundation in core Java and OOP principles, I have decided to pivot my focus toward hands-on, practical development. I am now actively applying the concepts learned here to build functional, real-world systems and projects.
+
 # ☕ Java & Object-Oriented Programming (OOP) Journey
 
 This repository documents my progress in the **Java & OOP** course by **Akın Kaldıroğlu**, running parallel to my academic studies as a **Computer Engineering Freshman** at **Marmara University**.
