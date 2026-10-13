@@ -1,4 +1,4 @@
-🚧### 🚀 Status Update (October 2026)
+🚀 Status Update (October 2026)
 
 After making initial progress in the course, I decided to restart my Java learning journey to strengthen my understanding of the fundamentals and build a more solid foundation.
 
