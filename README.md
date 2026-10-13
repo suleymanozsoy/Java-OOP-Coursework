@@ -94,7 +94,7 @@ Focusing on decision making, loops, string manipulation, and mathematical proble
 * **Version Control:** Git & GitHub
 
 ## 👨‍💻 About Me
-I am **Süleyman Özsoy**, a first-year Computer Engineering student at Marmara University. I maintain this repository to track my development in the software world.
+I am **Süleyman Özsoy**, a Second-year Computer Engineering student at Marmara University. I maintain this repository to track my development in the software world.
 
 ---
 *Based on Akın Kaldıroğlu's "Object-Oriented Programming with Java" course assignments.*
