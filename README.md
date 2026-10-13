@@ -1,5 +1,10 @@
-🚧 Status Update (Summer 2026):
-I am currently pausing the theoretical progression of this course. After building a solid foundation in core Java and OOP principles, I have decided to pivot my focus toward hands-on, practical development. I am now actively applying the concepts learned here to build functional, real-world systems and projects.
+🚧### 🚀 Status Update (October 2026)
+
+After making initial progress in the course, I decided to restart my Java learning journey to strengthen my understanding of the fundamentals and build a more solid foundation.
+
+This time, my focus is not just on completing the course, but on truly understanding the concepts, practicing consistently, and applying what I learn through coding exercises and projects.
+
+I will continue documenting my progress, assignments, and key takeaways in this repository.
 
 # ☕ Java & Object-Oriented Programming (OOP) Journey
 
